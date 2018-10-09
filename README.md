@@ -13,8 +13,9 @@ Bash scripts that can set Forge environments using AWS CLI.
 ### Pre-requisites
 
 1. You have access to an AWS account
-2. You have installed [AWS CLI](https://aws.amazon.com/cli/)
-3. You have created secret stores in [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) for the forge apps you want to set the environment for 
+1. You have setup your [AWS credentials](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-credentials.html) on your local machine
+1. You have installed [AWS CLI](https://aws.amazon.com/cli/)
+1. You have created secret stores in [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) for the forge apps you want to set the environment for 
 
 ### Running locally
 
