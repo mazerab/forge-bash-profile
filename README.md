@@ -2,7 +2,7 @@
 
 ## Description 
 
-Bash scripts that can set Forge environments
+Bash scripts that can set Forge environments using AWS CLI.
 
 ### Thumbnail
 
