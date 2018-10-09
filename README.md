@@ -1,5 +1,5 @@
 # forge-bash-profile
-A .bash_profile script that can set Forge environments
+Bash scripts that can set Forge environments
 
 ### Authors
 
