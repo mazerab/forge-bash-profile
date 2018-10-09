@@ -12,7 +12,13 @@ Bash scripts that can set Forge environments using AWS CLI.
 
 ### Pre-requisites
 
+1. You have access to an AWS account
+2. You have installed [AWS CLI](https://aws.amazon.com/cli/)
+3. You have created secret stores in [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) for the forge apps you want to set the environment for 
+
 ### Running locally
+
+Open a new terminal window and run the command **listForgeApps** to see the list of Forge Apps you have configured in your environment. If you want to set the Forge environment for a specific Forge app, run the command **setForgeDemoAppEnv** and input the app number you wish to use. After pressing ENTER, the Forge environment variables will be set for you. 
 
 ### Deployment
 
