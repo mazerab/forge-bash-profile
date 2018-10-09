@@ -16,6 +16,8 @@ Bash scripts that can set Forge environments
 
 ## Further Reading
 
+[About bash_profile and bashrc on MacOS](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
+
 ### Tips & Tricks
 
 ### Troubleshooting
