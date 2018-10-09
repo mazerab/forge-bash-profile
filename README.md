@@ -24,6 +24,8 @@ Bash scripts that can set Forge environments
 
 ### Troubleshooting
 
+If you make changes to the .bashrc file, you can apply the changes in your current terminal by running the command **source ~/.bash_profile**.
+
 ### License
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT). Please see the [LICENSE](LICENSE) file for full details.
