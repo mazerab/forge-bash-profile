@@ -6,7 +6,7 @@ Bash scripts that can set Forge environments
 
 ### Thumbnail
 
-<img src="/assets/images/bash-script-demo.gif" width="400" height="400">
+<img src="/assets/images/bash-script-demo.gif" width="600" height="400">
 
 ## Setup
 
